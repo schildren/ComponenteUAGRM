@@ -1,6 +1,6 @@
 Proyecto Final 
-Modulo:Implementación de Componentes UAGRM
 Sept/2014
+Modulo:Implementación de Componentes UAGRM
 ===============
 
 Proyecto Final: Modulo Implementación de Componentes
